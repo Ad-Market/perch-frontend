@@ -1,0 +1,20 @@
+[
+	{
+		"type": "constructor",
+		"stateMutability": "nonpayable",
+		"inputs": []
+	},
+	{
+		"type": "function",
+		"stateMutability": "view",
+		"outputs": [
+			{
+				"type": "uint256",
+				"name": "",
+				"internalType": "uint256"
+			}
+		],
+		"name": "gettingtime",
+		"inputs": []
+	}
+]
